@@ -1,6 +1,6 @@
 ## 2.0.0
 
-### Switch to using new JSX runtime
+### Changes to support using the new JSX runtime
   - Required for React 19 support
   - This is a breaking change and will require coordinated updates to other related packages
     - Requires updating to `@grafana/eslint-config@8.0.0` or extending `plugin:react/jsx-runtime` manually in your eslint config
