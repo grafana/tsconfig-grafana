@@ -7,11 +7,7 @@
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
     "jsx": "react",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "es2022"
-    ],
+    "lib": ["dom", "dom.iterable", "es2023"],
     "module": "esnext",
     "moduleResolution": "node",
     "noEmitHelpers": true,
@@ -22,6 +18,6 @@
     "pretty": true,
     "skipLibCheck": true,
     "sourceMap": true,
-    "target": "es2018"
+    "target": "es2020"
   }
 }
