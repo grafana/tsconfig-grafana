@@ -2,7 +2,7 @@
 > Grafana's [TypeScript](https://typescriptlang.org) config.
 
 >[!Important]
-This repo has been archived. The Grafana tsconfig package now lives at https://github.com/grafana/plugin-tools
+This repo has been archived. The Grafana tsconfig package now lives at https://github.com/grafana/plugin-tools/packages/tsconfg
 
 
 ## Installation
